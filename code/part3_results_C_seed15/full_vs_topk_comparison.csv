@@ -1,0 +1,6 @@
+model,full,top5
+GradientBoosting,0.9234,0.964
+LR_L1,0.9202,0.9061
+LR_L2,0.921,0.8427
+RandomForest,0.9369,0.9571
+SVM_RBF,0.955,

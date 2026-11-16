@@ -1,0 +1,11 @@
+model,threshold_type,F1_mean,F1_std,Bal_Acc_mean,Bal_Acc_std,ROC_AUC_mean
+GradientBoosting,fixed_0.5,0.795,0.2059,0.7999,0.2235,0.8927
+GradientBoosting,optimized,0.8101,0.1938,0.8172,0.2211,0.8927
+LR_L1,fixed_0.5,0.6981,0.2313,0.7789,0.1483,0.8046
+LR_L1,optimized,0.5496,0.1002,0.5104,0.0237,0.8046
+LR_L2,fixed_0.5,0.6983,0.2317,0.7791,0.1485,0.8049
+LR_L2,optimized,0.5496,0.1002,0.5102,0.0236,0.8049
+RandomForest,fixed_0.5,0.7926,0.1962,0.7971,0.2194,0.8393
+RandomForest,optimized,0.7637,0.1528,0.7728,0.1878,0.8393
+SVM_RBF,fixed_0.5,0.7806,0.19,0.7939,0.198,0.8603
+SVM_RBF,optimized,0.6963,0.1812,0.7275,0.1772,0.8603
